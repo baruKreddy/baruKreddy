@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @baruKreddy
+- 👋 Hi, I’m Bhargavi Reddy
 - 👀 I’m interested in java language
 - 💞️ I’m looking to collaborate on open source proects
 - 📫 you can reach out to me on bhargavirkotha@gmail.com
